@@ -13,7 +13,7 @@ https://github.com/mosbth/Anax-MVC
 <br/>
 <br/>
 
-3) Run composer from the commando line. Be sure to choose right DIR or try several other strategies at the same time. The type in this<br/>
+3) Run composer from the commando line. Be sure to choose right DIR or try several other strategies at the same time.  Use commando<br/>
 
 compose update --no-dev<br/>
 compose install --no-dev<br/>
