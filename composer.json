@@ -1,5 +1,5 @@
 {   
-    "name": "mwhd/flashmessage",    
+    "name": "ng/flashmessage",    
     "type": "library",
     "description": "Flash class using sessions, written for ANAX-MVC.",
     "keywords": ["flash", "mvc", "anax", "mahd", "CFlashMessage"],
