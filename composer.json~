@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Niklas Gustavsson",
-            "email": "a12kargu@student.his.se",
+            "name": "Marcus Westerlund",
+            "email": "mwesterl@kth.com",
             "homepage": "http://dbwebb.se"
         }
     ],
@@ -16,7 +16,7 @@
         "php": ">=5.4"
     },
     "autoload": {
-        "psr-4": { "ng\\": "src/" }
+        "psr-4": { "mwhd\\": "src/" }
     }
 
 }
